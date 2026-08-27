@@ -9,7 +9,6 @@ keywords:
   - 撤銷
   - 取消採購
 documentType: manual
-source: https://docs.einv.tw/faq/
 ---
 
 # 採購單變更處理
